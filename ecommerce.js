@@ -8,15 +8,15 @@ const products = [
     category: "Clothing",
   },
   {
-    path: "https://www.stoneharbor.com.pk/cdn/shop/files/stone-harbor-men-s-casual-shirt-men-s-premium-popcorn-casual-shirt-1158885941.png?v=1745584131&width=600",
-    title: "Mens Casual Premium",
+    path:"https://img.drz.lazcdn.com/static/pk/p/3c669437771b01911c7bb7e5d579d8f3.jpg_720x720q80.jpg",
+    title: "Silicone Kitchen Utensil Set",
     price: "$22.3",
     description:
-      "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric",
-    category: "Clothing",
+      "A stylish and functional kitchen utensil collection,brushes, spoons, tongs",
+    category: "kitchen",
   },
   {
-    path: "data:image/jpeg;base64,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",
+    path:"https://www.fjallraven.com/495467/globalassets/catalogs/fjallraven/f2/f242/f24210/f550/7392158958177_ss18_a_foldsack_no1_21.jpg?width=624&height=624&rmode=BoxPad&bgcolor=fff&quality=100",
     title: "Fjallraven - Foldsac",
     price: "$109.95",
     description:
@@ -24,7 +24,7 @@ const products = [
     category: "Clothing",
   },
   {
-    path: "data:image/jpeg;base64,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",
+    path:"https://m.media-amazon.com/images/I/61lYOCzqvAL._UY1000_.jpg",
     title: "John Hardy Women's L",
     price: "$695",
     description:
@@ -48,12 +48,12 @@ const products = [
     category: "Clothing",
   },
   {
-    path: "https://5.imimg.com/data5/BY/GZ/OO/SELLER-88156244/boy-cotton-jacket-500x500.jpg",
-    title: "Mens Cotton Jacket",
+    path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz-orM0IpKaneDDrB3vhnZBn_GxyotZt31KA&s",
+    title: "Premium Cookware Collection",
     price: "$55.99",
     description:
-      "Great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking",
-    category: "Clothing",
+      "frying pans, grill pans, non-stick skillets, stainless-steel sauté pans, pressure cookers, and deep pots",
+    category: "kitchen",
   },
   {
     path: "https://www.thoughtco.com/thmb/x1_k2-GNKgiM0GOv_JWus0CQkgU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-173609232-569d7ef73df78cafda9d4f76.jpg",
@@ -79,13 +79,39 @@ const products = [
       "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA drive)",
     category: "Electronics",
   },
+    {
+    path:"https://www.thepetalsbeauty.com/cdn/shop/files/Perfect_makeup_bundle_-_The_Petals_Beauty-4870938.jpg?v=1729596824",
+    title: "MakeUp bundle",
+    price: "$695",
+    description:
+      "Flawless Glow BB Cream Blush & Glow duo (in pink and peach shades),Multipurpose makeup brush",
+    category: "Beauty",
+  },
+   {
+    path:"https://i.pinimg.com/originals/a3/bb/56/a3bb5608a85de2b0d3a5229322ae830f.png",
+    title: "Pastel Beauty Essentials Flat Lay",
+    price: "$695",
+    description:
+      "A beautifully curated flat lay of skincare and beauty essentials displayed on a soft pastel pink background",
+    category: "Beauty",
+  },
+  {
+ path:" https://dailysale.com/cdn/shop/collections/toys-games-879935.jpg?v=1737087607",
+ title:"Delightful Toy Display",
+ price:"$30",
+ description:"plush teddy bear, colorful stacking rings, building blocks, toy vehicles, and small rubber figures",
+ category:"toys",
+},
 ];
+
 const wishList = [];
 const cartList = [];
 
 function productMapping(products) {
+  const container = document.querySelector("#parent");
+  if (!container) return;
+
   products.forEach((element) => {
-    let container = document.querySelector("#parent");
     let div = document.createElement("div");
     let title = document.createElement("h1");
     let price = document.createElement("h3");
@@ -95,51 +121,51 @@ function productMapping(products) {
     let wish = document.createElement("button");
     let cart = document.createElement("button");
 
-    //classes
-    div.className = "card";
-    title.className = "title";
-    price.className = "price";
-    des.className = "description";
-    img.className = "image";
-    div2.className = "buttons";
-    wish.className = "wishbtn";
-    cart.className = "cartbtn";
+    // Classes with Tailwind CSS
+    div.className = "bg-white w-80 md:w-64  h-[500px] p-2 flex flex-col  items-center justify-between rounded-[10px]";
+    title.className = "text-center"; 
+    des.className = "text-center px-4";
+    img.className = "h-[230px]";
+    div2.className = "flex gap-[7px]";
+    wish.className = "bg-gray-300 text-orange-600 py-2.5 px-3 rounded-[5px] text-lg text-nowrap";
+    cart.className = "bg-orange-600 transition-colors duration-300 py-2.5 px-3 rounded-[5px] text-lg text-white text-nowrap";
 
-
-    //appending child
-    div2.appendChild(wish);
-    div2.appendChild(cart);
-    div.appendChild(title);
-    div.appendChild(img);
-    container.appendChild(div);
-    div.appendChild(price);
-    div.appendChild(des);
-    div.appendChild(div2);
-
+    // Set content
     wish.innerText = "Add to wish";
     cart.innerText = "Add to cart";
     title.innerText = element.title;
     price.innerText = element.price;
     des.innerText = element.description;
     img.src = element.path;
+    img.alt = element.title;
 
-    //event listeners
+    // Append elements in correct order
+    div.appendChild(img);
+    div.appendChild(title);
+    div.appendChild(price);
+    div.appendChild(des);
+    div2.appendChild(wish);
+    div2.appendChild(cart);
+    div.appendChild(div2);
+    container.appendChild(div);
+
+    // Event listeners
     wish.addEventListener("mouseenter", () => {
-      wish.style.backgroundColor = "#ffedd5";
+      wish.classList.add("bg-orange-100")
     });
     wish.addEventListener("mouseleave", () => {
-      wish.style.backgroundColor = "#d1d5db";
+      wish.classList.remove("bg-orange-100")
     });
     wish.addEventListener("click", function () {
-        wishList.push(element);
-        localStorage.setItem("wishes", JSON.stringify(wishList));
-      });
+      wishList.push(element);
+      localStorage.setItem("wishes", JSON.stringify(wishList));
+    });
 
     cart.addEventListener("mouseenter", () => {
-      cart.style.backgroundColor = "#c2410c";
+      cart.classList.add("bg-orange-800") 
     });
     cart.addEventListener("mouseleave", () => {
-      cart.style.backgroundColor = "#ea580c";
+      cart.classList.remove("bg-orange-800") 
     });
     cart.addEventListener("click", function () {
       cartList.push(element);
@@ -148,27 +174,47 @@ function productMapping(products) {
   });
 }
 
-productMapping(products);
-
-function gettingParent(){
-    let container = document.querySelector("#parent");
-    container.innerHTML = "";  
+function gettingParent() {
+  let container = document.querySelector("#parent");
+  if (container) container.innerHTML = "";
 }
 
+document.addEventListener("DOMContentLoaded", () => {
+  productMapping(products)
+});
+
 function clothing() {
-  let clothArray = products.filter((e) => e.category == "Clothing");
   gettingParent()
-  productMapping(clothArray);
+  let clothArray = products.filter((e) => e.category === "Clothing")
+  productMapping(clothArray)
 }
 
 function electronics() {
-  let electronicArray = products.filter((e) => e.category == "Electronics");
- gettingParent()
-  productMapping(electronicArray);
+  gettingParent()
+  let electronicArray = products.filter((e) => e.category === "Electronics")
+  productMapping(electronicArray)
 }
 
 function jewellery() {
-  let jewelleryArray = products.filter((e) => e.category == "Jewellery");
- gettingParent()
-  productMapping(jewelleryArray);
+  gettingParent()
+  let jewelleryArray = products.filter((e) => e.category === "Jewellery")
+  productMapping(jewelleryArray)
+}
+
+function beauty(){
+  gettingParent()
+  let beautyArray= products.filter((e) => e.category==="Beauty")
+  productMapping(beautyArray)
+}
+
+function toys(){
+  gettingParent()
+  let toyArray= products.filter((e)=> e.category==="toys")
+  productMapping(toyArray)
+}
+
+function kitchen(){
+  gettingParent()
+  let kitchenArray= products.filter((e)=>e.category==="kitchen")
+  productMapping(kitchenArray)
 }
